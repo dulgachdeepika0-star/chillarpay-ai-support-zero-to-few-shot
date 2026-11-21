@@ -1,0 +1,29 @@
+ChillarPay Case Study
+
+ChillarPay is a fictional UPI payment application based in Jaipur.
+
+It has 8 lakh users and receives around 2,000 customer support messages daily in English and Hinglish.
+
+The support team has 6 members and faces difficulty handling all customer complaints.
+
+Objective: To test whether AI can classify customer messages, set priorities and prepare suitable replies.
+
+Support Categories
+
+1. Failed Payment
+2. Refund
+3. Fraud Alert
+4. Account & KYC
+
+Priority Rules
+
+* High: Money lost without permission or account blocked.
+* Medium: Money stuck, delayed payment or refund pending.
+* Low: General information or profile update.
+
+Reply Rules
+
+* Keep replies polite and short.
+* Use the customer’s first name if provided.
+* Never promise a refund date.
+* Reply in Hinglish if the customer writes in Hinglish.
